@@ -1,7 +1,7 @@
-Hello! I'm Prkizir! 
-I am a recent graduate from ITESM QRO (Dec 2020).
-I studied B.S. in Digital Systems and Robotics Engineering with Computer Science as a non-official minor (I took many CS courses).
-I absolutely love electronics! but I also have a great passion for programming (mostly on low-level languages).
+Hello! I'm Prkizir!   
+I am a recent graduate from ITESM QRO (Dec 2020).  
+I studied B.S. in Digital Systems and Robotics Engineering with Computer Science as a non-official minor (I took many CS courses).  
+I absolutely love electronics! but I also have a great passion for programming (mostly on low-level languages).  
 I am profficient in:
 
     C  

@@ -31,5 +31,5 @@ But of course I also am profficient in circuit design/analysis, which is why I a
     Eagle Cadsoft
   
 I also have a lot of interest in Control Systems and Embedded Software.  
-My greatest dream is to integrate myself all of my interests into some BIG project, which is why I chose Robotics!  
+My greatest dream is to integrate all of my interests into some BIG project, which is why I chose Robotics!  
 Hope I can make your acquaintance someday, and work together on some small or big project!
